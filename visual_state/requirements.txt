@@ -1,0 +1,5 @@
+numpy>=1.26
+opencv-python-headless>=4.8
+mss>=9
+pytest>=8
+# Optional real classifier: install compatible torch + torchvision + Pillow separately.
